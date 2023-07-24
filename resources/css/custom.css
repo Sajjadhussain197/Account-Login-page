@@ -1,0 +1,11 @@
+.content{
+    height: 500px;
+    width: 400px;
+    align-items: center;
+    align-content: center;
+}
+.content{
+    height: 70%;
+  margin: auto;
+  align-items: center;
+}
